@@ -16,12 +16,14 @@ Terminal:
 
 ![image](https://github.com/user-attachments/assets/f36a0d07-36c2-4985-a45b-a8c58dfb41a7)
 
+---
+
 
 ## Comentarios
 
 ![image](https://github.com/user-attachments/assets/c66ada13-0a7a-47bb-9f08-4e3ccb2173b7)
 
-
+Ctrl K y Cttrl C para comentar varias lineas de código.
 
 
 
